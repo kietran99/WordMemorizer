@@ -1,0 +1,23 @@
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\pbControl\bin\Debug\pbControl.dll
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\pbControl\bin\Debug\pbControl.pdb
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\pbControl\obj\Debug\pbControl.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\pbControl\obj\Debug\pbControl.dll
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\pbControl\obj\Debug\pbControl.pdb
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\pbControl\obj\Debug\pbControl.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\pbControl\obj\Debug\pbControl.pbControl.resources
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\pbControl\obj\Debug\pbControl.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\pbControl\bin\Debug\pbControl.dll
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\pbControl\bin\Debug\pbControl.pdb
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\pbControl\obj\Debug\pbControl.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\pbControl\obj\Debug\pbControl.pbControl.resources
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\pbControl\obj\Debug\pbControl.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\pbControl\obj\Debug\pbControl.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\pbControl\obj\Debug\pbControl.dll
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\pbControl\obj\Debug\pbControl.pdb
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\pbControl\bin\Debug\pbControl.dll
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\pbControl\bin\Debug\pbControl.pdb
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\pbControl\obj\Debug\pbControl.pbControl.resources
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\pbControl\obj\Debug\pbControl.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\pbControl\obj\Debug\pbControl.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\pbControl\obj\Debug\pbControl.dll
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\pbControl\obj\Debug\pbControl.pdb

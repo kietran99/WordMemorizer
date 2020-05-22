@@ -1,0 +1,46 @@
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\Black and Blue\bin\Debug\Black and Blue.exe.config
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\Black and Blue\bin\Debug\Black and Blue.exe
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\Black and Blue\bin\Debug\Black and Blue.pdb
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\Black and Blue\obj\Debug\Black and Blue.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\Black and Blue\obj\Debug\Black_and_Blue.Form1.resources
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\Black and Blue\obj\Debug\Black_and_Blue.Properties.Resources.resources
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\Black and Blue\obj\Debug\Black and Blue.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\Black and Blue\obj\Debug\Black and Blue.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\Black and Blue\obj\Debug\Black and Blue.exe
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\Black and Blue\obj\Debug\Black and Blue.pdb
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\Black and Blue\obj\Debug\Black and Blue.csproj.CopyComplete
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\Black and Blue\bin\Debug\pbControl.dll
+C:\Users\Asus\Documents\repos\App Development\Custom Winforms\Black and Blue\Black and Blue\bin\Debug\pbControl.pdb
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\Black and Blue\bin\Debug\Black and Blue.exe.config
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\Black and Blue\bin\Debug\Black and Blue.exe
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\Black and Blue\bin\Debug\Black and Blue.pdb
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\Black and Blue\bin\Debug\pbControl.dll
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\Black and Blue\bin\Debug\pbControl.pdb
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black and Blue.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black_and_Blue.Form1.resources
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black_and_Blue.Properties.Resources.resources
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black and Blue.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black and Blue.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black and Blue.csproj.CopyComplete
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black and Blue.exe
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black and Blue.pdb
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black_and_Blue.Word_List.resources
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black_and_Blue.Word_Manager.resources
+C:\Users\Asus\Documents\repos\App Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black_and_Blue.Normal_Mode.resources
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\bin\Debug\Black and Blue.exe.config
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\bin\Debug\Black and Blue.exe
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\bin\Debug\Black and Blue.pdb
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\bin\Debug\pbControl.dll
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\bin\Debug\pbControl.pdb
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black_and_Blue.Normal_Mode.resources
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black_and_Blue.Word_List.resources
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black_and_Blue.Word_Manager.resources
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black_and_Blue.Form1.resources
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black_and_Blue.Properties.Resources.resources
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black and Blue.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black and Blue.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black and Blue.csproj.CopyComplete
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black and Blue.exe
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black and Blue.pdb
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black and Blue.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\repos\App Development\Visual Studio Development\Word Memorizer\Black and Blue\Black and Blue\obj\Debug\Black_and_Blue.SublistManager.resources

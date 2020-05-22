@@ -1,0 +1,9 @@
+v1.0.1
++ Increased the size of characters and textboxes.
++ Added sort function.
++ Added reverse button to alternate between each word and its meaning.
++ Reworked search function: now it can search words based on the current text in search box.
++ Added word counter.
++ Bonus: Golden search button.
++ Added input order.
++ Fixed bugs.
